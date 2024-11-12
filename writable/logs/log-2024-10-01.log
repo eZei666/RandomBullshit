@@ -1,0 +1,434 @@
+CRITICAL - 2024-10-01 02:23:13 --> ErrorException: Undefined variable $studentdata
+[Method: GET, Route: /]
+in APPPATH\Views\team.php on line 36.
+ 1 APPPATH\Views\team.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $studentdata', 'C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Views\\team.php', 36)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Views\\team.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('team', [], true)
+ 5 APPPATH\Controllers\Home.php(14): view('team')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\public\\index.php')
+CRITICAL - 2024-10-01 02:23:14 --> ErrorException: Undefined variable $studentdata
+[Method: GET, Route: /]
+in APPPATH\Views\team.php on line 36.
+ 1 APPPATH\Views\team.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $studentdata', 'C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Views\\team.php', 36)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Views\\team.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('team', [], true)
+ 5 APPPATH\Controllers\Home.php(14): view('team')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\public\\index.php')
+CRITICAL - 2024-10-01 02:23:34 --> ErrorException: Undefined variable $studentdata
+[Method: GET, Route: /]
+in APPPATH\Views\team.php on line 36.
+ 1 APPPATH\Views\team.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $studentdata', 'C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Views\\team.php', 36)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Views\\team.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('team', [], true)
+ 5 APPPATH\Controllers\Home.php(14): view('team')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\public\\index.php')
+CRITICAL - 2024-10-01 02:31:23 --> ErrorException: Undefined variable $studentdata
+[Method: GET, Route: /]
+in APPPATH\Views\team.php on line 36.
+ 1 APPPATH\Views\team.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $studentdata', 'C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Views\\team.php', 36)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Views\\team.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('team', [], true)
+ 5 APPPATH\Controllers\Home.php(14): view('team')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\public\\index.php')
+CRITICAL - 2024-10-01 02:31:43 --> ErrorException: Undefined variable $studentdata
+[Method: GET, Route: /]
+in APPPATH\Views\team.php on line 36.
+ 1 APPPATH\Views\team.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $studentdata', 'C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Views\\team.php', 36)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Views\\team.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('team', [], true)
+ 5 APPPATH\Controllers\Home.php(14): view('team')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\public\\index.php')
+CRITICAL - 2024-10-01 02:34:31 --> ErrorException: Undefined variable $studentdata
+[Method: GET, Route: /]
+in APPPATH\Views\team.php on line 36.
+ 1 APPPATH\Views\team.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $studentdata', 'C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Views\\team.php', 36)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Views\\team.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('team', [], true)
+ 5 APPPATH\Controllers\Home.php(14): view('team')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\public\\index.php')
+CRITICAL - 2024-10-01 02:34:53 --> ErrorException: Undefined variable $studentdata
+[Method: GET, Route: /]
+in APPPATH\Views\team.php on line 36.
+ 1 APPPATH\Views\team.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $studentdata', 'C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Views\\team.php', 36)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Views\\team.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('team', [], true)
+ 5 APPPATH\Controllers\Home.php(14): view('team')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\public\\index.php')
+CRITICAL - 2024-10-01 02:36:12 --> ErrorException: Undefined variable $studentdata
+[Method: GET, Route: /]
+in APPPATH\Views\team.php on line 36.
+ 1 APPPATH\Views\team.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $studentdata', 'C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Views\\team.php', 36)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Views\\team.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('team', [], true)
+ 5 APPPATH\Controllers\Home.php(14): view('team')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\public\\index.php')
+CRITICAL - 2024-10-01 02:36:13 --> ErrorException: Undefined variable $studentdata
+[Method: GET, Route: /]
+in APPPATH\Views\team.php on line 36.
+ 1 APPPATH\Views\team.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $studentdata', 'C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Views\\team.php', 36)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Views\\team.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('team', [], true)
+ 5 APPPATH\Controllers\Home.php(14): view('team')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\public\\index.php')
+CRITICAL - 2024-10-01 02:36:14 --> ErrorException: Undefined variable $studentdata
+[Method: GET, Route: /]
+in APPPATH\Views\team.php on line 36.
+ 1 APPPATH\Views\team.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $studentdata', 'C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Views\\team.php', 36)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Views\\team.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('team', [], true)
+ 5 APPPATH\Controllers\Home.php(14): view('team')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\public\\index.php')
+CRITICAL - 2024-10-01 02:36:14 --> ErrorException: Undefined variable $studentdata
+[Method: GET, Route: /]
+in APPPATH\Views\team.php on line 36.
+ 1 APPPATH\Views\team.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $studentdata', 'C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Views\\team.php', 36)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Views\\team.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('team', [], true)
+ 5 APPPATH\Controllers\Home.php(14): view('team')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\public\\index.php')
+CRITICAL - 2024-10-01 02:41:08 --> ErrorException: Undefined variable $studentdata
+[Method: GET, Route: /]
+in APPPATH\Views\team.php on line 36.
+ 1 APPPATH\Views\team.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $studentdata', 'C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Views\\team.php', 36)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Views\\team.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('team', [], true)
+ 5 APPPATH\Controllers\Home.php(14): view('team')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\public\\index.php')
+CRITICAL - 2024-10-01 02:41:09 --> ErrorException: Undefined variable $studentdata
+[Method: GET, Route: /]
+in APPPATH\Views\team.php on line 36.
+ 1 APPPATH\Views\team.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $studentdata', 'C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Views\\team.php', 36)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Views\\team.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('team', [], true)
+ 5 APPPATH\Controllers\Home.php(14): view('team')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\public\\index.php')
+CRITICAL - 2024-10-01 02:41:09 --> ErrorException: Undefined variable $studentdata
+[Method: GET, Route: /]
+in APPPATH\Views\team.php on line 36.
+ 1 APPPATH\Views\team.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $studentdata', 'C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Views\\team.php', 36)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Views\\team.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('team', [], true)
+ 5 APPPATH\Controllers\Home.php(14): view('team')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\public\\index.php')
+CRITICAL - 2024-10-01 02:41:10 --> ErrorException: Undefined variable $studentdata
+[Method: GET, Route: /]
+in APPPATH\Views\team.php on line 36.
+ 1 APPPATH\Views\team.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $studentdata', 'C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Views\\team.php', 36)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Views\\team.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('team', [], true)
+ 5 APPPATH\Controllers\Home.php(14): view('team')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\public\\index.php')
+CRITICAL - 2024-10-01 02:41:10 --> ErrorException: Undefined variable $studentdata
+[Method: GET, Route: /]
+in APPPATH\Views\team.php on line 36.
+ 1 APPPATH\Views\team.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $studentdata', 'C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Views\\team.php', 36)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Views\\team.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('team', [], true)
+ 5 APPPATH\Controllers\Home.php(14): view('team')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\public\\index.php')
+CRITICAL - 2024-10-01 02:41:26 --> ErrorException: Undefined variable $studentdata
+[Method: GET, Route: /]
+in APPPATH\Views\team.php on line 36.
+ 1 APPPATH\Views\team.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $studentdata', 'C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Views\\team.php', 36)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Views\\team.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('team', [], true)
+ 5 APPPATH\Controllers\Home.php(14): view('team')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\public\\index.php')
+CRITICAL - 2024-10-01 02:54:06 --> ParseError: syntax error, unexpected token "public"
+[Method: GET, Route: /]
+in APPPATH\Controllers\Home.php on line 117.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Controllers\\Home.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\public\\index.php')
+CRITICAL - 2024-10-01 02:54:49 --> ParseError: syntax error, unexpected token "public"
+[Method: GET, Route: /]
+in APPPATH\Controllers\Home.php on line 114.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Controllers\\Home.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\public\\index.php')
+CRITICAL - 2024-10-01 02:55:37 --> ParseError: syntax error, unexpected token "public"
+[Method: GET, Route: /]
+in APPPATH\Controllers\Home.php on line 114.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Controllers\\Home.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\public\\index.php')
+CRITICAL - 2024-10-01 02:56:28 --> ParseError: syntax error, unexpected token "public"
+[Method: GET, Route: team]
+in APPPATH\Controllers\Home.php on line 114.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Controllers\\Home.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\public\\index.php')
+CRITICAL - 2024-10-01 02:56:29 --> ParseError: syntax error, unexpected token "public"
+[Method: GET, Route: team]
+in APPPATH\Controllers\Home.php on line 114.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Controllers\\Home.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\public\\index.php')
+CRITICAL - 2024-10-01 02:56:33 --> ParseError: syntax error, unexpected token "public"
+[Method: GET, Route: /]
+in APPPATH\Controllers\Home.php on line 114.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Controllers\\Home.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\public\\index.php')
+CRITICAL - 2024-10-01 02:56:35 --> ParseError: syntax error, unexpected token "public"
+[Method: GET, Route: features]
+in APPPATH\Controllers\Home.php on line 114.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Controllers\\Home.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\public\\index.php')
+CRITICAL - 2024-10-01 03:01:30 --> ErrorException: Undefined variable $studentdata
+[Method: GET, Route: /]
+in APPPATH\Views\team.php on line 36.
+ 1 APPPATH\Views\team.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $studentdata', 'C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Views\\team.php', 36)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Views\\team.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('team', [], true)
+ 5 APPPATH\Controllers\Home.php(14): view('team')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\public\\index.php')
+CRITICAL - 2024-10-01 03:01:32 --> ErrorException: Undefined variable $studentdata
+[Method: GET, Route: /]
+in APPPATH\Views\team.php on line 36.
+ 1 APPPATH\Views\team.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $studentdata', 'C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Views\\team.php', 36)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Views\\team.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('team', [], true)
+ 5 APPPATH\Controllers\Home.php(14): view('team')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\public\\index.php')
+CRITICAL - 2024-10-01 03:03:17 --> ErrorException: Undefined variable $studentdata
+[Method: GET, Route: /]
+in APPPATH\Views\team.php on line 36.
+ 1 APPPATH\Views\team.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $studentdata', 'C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Views\\team.php', 36)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Views\\team.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('team', [], true)
+ 5 APPPATH\Controllers\Home.php(14): view('team')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\public\\index.php')
+CRITICAL - 2024-10-01 03:12:50 --> ParseError: syntax error, unexpected token "."
+[Method: GET, Route: team]
+in APPPATH\Controllers\Home.php on line 41.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Controllers\\Home.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\public\\index.php')
+CRITICAL - 2024-10-01 03:26:05 --> ErrorException: Undefined variable $studentdata
+[Method: GET, Route: /]
+in APPPATH\Views\team.php on line 35.
+ 1 APPPATH\Views\team.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $studentdata', 'C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Views\\team.php', 35)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Views\\team.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('team', [], true)
+ 5 APPPATH\Controllers\Home.php(14): view('team')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\public\\index.php')
+CRITICAL - 2024-10-01 03:59:48 --> ErrorException: Undefined variable $menu_items
+[Method: GET, Route: menu]
+in APPPATH\Views\menu.php on line 15.
+ 1 APPPATH\Views\menu.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $menu_items', 'C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Views\\menu.php', 15)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Views\\menu.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('menu', [], true)
+ 5 APPPATH\Controllers\Home.php(33): view('menu')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->imenu()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\public\\index.php')

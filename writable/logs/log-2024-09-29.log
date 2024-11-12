@@ -1,0 +1,110 @@
+CRITICAL - 2024-09-29 11:54:36 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "inde.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('inde.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('inde', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('inde')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\public\\index.php')
+CRITICAL - 2024-09-29 11:54:38 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "inde.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('inde.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('inde', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('inde')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\public\\index.php')
+CRITICAL - 2024-09-29 11:58:01 --> ErrorException: Undefined variable $students
+[Method: GET, Route: /]
+in APPPATH\Views\team.php on line 36.
+ 1 APPPATH\Views\team.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students', 'C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Views\\team.php', 36)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Views\\team.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('team', [], true)
+ 5 APPPATH\Controllers\Home.php(14): view('team')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\public\\index.php')
+CRITICAL - 2024-09-29 12:06:43 --> ErrorException: Cannot redeclare App\Controllers\Home::index()
+[Method: GET, Route: /]
+in APPPATH\Controllers\Home.php on line 44.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-09-29 12:06:45 --> ErrorException: Cannot redeclare App\Controllers\Home::index()
+[Method: GET, Route: /]
+in APPPATH\Controllers\Home.php on line 44.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-09-29 12:07:13 --> ErrorException: Cannot redeclare App\Controllers\Home::iteam()
+[Method: GET, Route: /]
+in APPPATH\Controllers\Home.php on line 44.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-09-29 12:07:14 --> ErrorException: Cannot redeclare App\Controllers\Home::iteam()
+[Method: GET, Route: /]
+in APPPATH\Controllers\Home.php on line 44.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-09-29 12:07:29 --> ParseError: syntax error, unexpected token "{", expecting "function" or "const"
+[Method: GET, Route: /]
+in APPPATH\Controllers\Home.php on line 45.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Controllers\\Home.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\public\\index.php')
+CRITICAL - 2024-09-29 12:07:43 --> ParseError: syntax error, unexpected token "public"
+[Method: GET, Route: /]
+in APPPATH\Controllers\Home.php on line 51.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Controllers\\Home.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\public\\index.php')
+CRITICAL - 2024-09-29 12:09:03 --> ErrorException: Cannot redeclare App\Controllers\Home::index()
+[Method: GET, Route: /]
+in APPPATH\Controllers\Home.php on line 46.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-09-29 12:09:59 --> ErrorException: Cannot redeclare App\Controllers\Home::iteam()
+[Method: GET, Route: /]
+in APPPATH\Controllers\Home.php on line 46.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-09-29 12:10:00 --> ErrorException: Cannot redeclare App\Controllers\Home::iteam()
+[Method: GET, Route: /]
+in APPPATH\Controllers\Home.php on line 46.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-09-29 12:10:44 --> ErrorException: Undefined variable $students
+[Method: GET, Route: /]
+in APPPATH\Views\team.php on line 36.
+ 1 APPPATH\Views\team.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students', 'C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Views\\team.php', 36)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\app\\Views\\team.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('team', [], true)
+ 5 APPPATH\Controllers\Home.php(14): view('team')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\melvi\\OneDrive\\Documents\\CI4\\Food Website\\public\\index.php')
